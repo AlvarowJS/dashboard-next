@@ -1,4 +1,4 @@
-import { SimplePokemon } from "@/app/pokemons";
+import { SimplePokemon } from "@/pokemons";
 import Image from "next/image";
 import { PokemonCard } from "./PokemonCard";
 
